@@ -1,2 +1,2 @@
 # java
-java-2020
+Java learned from Ewha Univ in 2020.
